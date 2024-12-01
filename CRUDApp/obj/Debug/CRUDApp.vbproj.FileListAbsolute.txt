@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\bin\Debug\CRUDApp.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\bin\Debug\CRUDApp.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\bin\Debug\CRUDApp.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\bin\Debug\CRUDApp.xml
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\obj\Debug\CRUDApp.frmMasterBarang.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\obj\Debug\CRUDApp.MDMain.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\obj\Debug\CRUDApp.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\obj\Debug\CRUDApp.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\obj\Debug\CRUDApp.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\obj\Debug\CRUDApp.xml
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\obj\Debug\CRUDApp.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\CRUDApp\CRUDApp\obj\Debug\CRUDApp.frmBarangMasuk.resources
